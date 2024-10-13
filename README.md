@@ -6,7 +6,7 @@ Goofy Shell Scripts I made to make my life easier
 2. Symlink the repo folder to a central directory that's easy to reach (I personally like `~/.progs` but anything works)
 3. Edit .bashrc according to which commands you want
 
-# De**script**ions
+# DeSCRIPTions
 See what I did there?
 
 ## startShizuku.sh
