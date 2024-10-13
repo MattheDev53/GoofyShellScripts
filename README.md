@@ -11,7 +11,7 @@ Goofy Shell Scripts I made to make my life easier
 ```
 curl -s -L https://raw.githubusercontent.com/MattheDev53/GoofyShellScripts/refs/heads/main/installGSS.sh | bash
 ```
-**WARNING** This will change your .bashrc, read over the scripts you run
+**WARNING**: This will change your .bashrc, read over the scripts you run
 
 # DeSCRIPTions
 See what I did there?
