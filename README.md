@@ -24,3 +24,9 @@ Starts Shizuku on Android via ADB. Make sure you have ADB or else this script wo
 
 ## fixFlatpakCursors.sh
 This fixes a bug in flatpak where custom cursors aren't able to be seen in flatpak apps
+
+## flatPak.sh
+Backs up installed flatpak apps to `flatpakBackup.txt`
+
+## flatUnpak.sh
+Installs backed up flatpak apps from `flatpakBackup.txt`
