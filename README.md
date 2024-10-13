@@ -2,9 +2,16 @@
 Goofy Shell Scripts I made to make my life easier
 
 # How to Make it a Command
+## Manual Install
 1. Clone this repo
 2. Symlink the repo folder to a central directory that's easy to reach (I personally like `~/.progs` but anything works)
 3. Edit .bashrc according to which commands you want
+
+## Install Script
+```
+curl -s -L https://raw.githubusercontent.com/MattheDev53/GoofyShellScripts/refs/heads/main/installGSS.sh | bash
+```
+**WARNING** This will change your .bashrc, read over the scripts you run
 
 # DeSCRIPTions
 See what I did there?
