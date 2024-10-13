@@ -21,9 +21,6 @@ Starts Shizuku on Android via ADB. Make sure you have ADB or else this script wo
 
 ## tmuxClear.sh
 *Actually* kills all tmux sessions. `tmux kill-session -a` always leaves one tmux session open, when I want to kill *all* of them.
-<<<<<<< HEAD
 
 ## fixFlatpakCursors.sh
 This fixes a bug in flatpak where custom cursors aren't able to be seen in flatpak apps
-=======
->>>>>>> 4aad1068c9fdd19042d3b3d54c21027eb8e586eb
