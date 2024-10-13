@@ -10,4 +10,5 @@ git clone https://github.com/MattheDev53/GoofyShellScripts.git
 echo "Editing .bashrc"
 echo "alias startShizuku='bash ~/GoofyShellScripts/startShizuku.sh'" >> ~/.bashrc
 echo "alias tmuxClear='bash ~/GoofyShellScripts/tmuxClear.sh'" >> ~/.bashrc
+echo "alias fixCursor='bash ~/GoofyShellScripts/fixFlatpakCursors.sh'" >> ~/.bashrc
 echo "Done!"
