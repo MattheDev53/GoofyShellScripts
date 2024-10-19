@@ -5,7 +5,7 @@ Goofy Shell Scripts I made to make my life easier
 ## Manual Install
 1. Clone this repo
 2. Symlink the repo folder to a central directory that's easy to reach (I personally like `~/.progs` but anything works)
-3. Edit .bashrc/equivilant according to which commands you want
+3. Edit .bashrc/equivilent according to which commands you want
 
 # DeSCRIPTions
 See what I did there?
