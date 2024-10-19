@@ -5,13 +5,7 @@ Goofy Shell Scripts I made to make my life easier
 ## Manual Install
 1. Clone this repo
 2. Symlink the repo folder to a central directory that's easy to reach (I personally like `~/.progs` but anything works)
-3. Edit .bashrc according to which commands you want
-
-## Install Script
-```
-curl -s -L https://raw.githubusercontent.com/MattheDev53/GoofyShellScripts/refs/heads/main/installGSS.sh | bash
-```
-**WARNING**: This will change your .bashrc, read over the scripts you run
+3. Edit .bashrc/equivilant according to which commands you want
 
 # DeSCRIPTions
 See what I did there?
@@ -30,3 +24,4 @@ Backs up installed flatpak apps to `flatpakBackup.txt`
 
 ## flatUnpak.sh
 Installs backed up flatpak apps from `flatpakBackup.txt`
+
