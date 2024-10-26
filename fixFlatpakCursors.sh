@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/usr/bin/env bash
 
 # Fix flatpak cursors using method from
 # https://github.com/flatpak/flatpak/issues/709#issuecomment-1670708180
