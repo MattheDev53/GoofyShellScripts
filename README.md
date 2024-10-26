@@ -26,3 +26,6 @@ Installs backed up flatpak apps from `flatpakBackup.txt`
 
 ## fancyClear.sh
 I'm not sure about you, but I like putting neofetch in my .bashrc so that my computer specs are displayed everytime I go into a terminal. I like the aesthetic of it. This script makes it so that it runs neofetch after clearing the terminal, like it would if i closed and reopened my terminal.
+
+## driveAnhialator.sh
+It anhialates your drive, like a good drive anhialator should. It uses `/dev/random` and `dev/zero` to anhialate your drive. It also has goofy ass easter eggs for no reason.
